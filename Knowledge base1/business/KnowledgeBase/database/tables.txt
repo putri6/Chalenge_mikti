@@ -1,4 +1,0 @@
-kbarticles
-kbcategories
-kbcomments
-kbusers
